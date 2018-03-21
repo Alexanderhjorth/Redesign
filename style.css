@@ -1,8 +1,9 @@
 #kontakt .sectionwrapper {
-    background-color: #412828;
-
-    margin: 3em;
-    border padding
+    background-color: #4e4e4e;
+    padding: 1em;
+    border: 1px solid black;
 }
 
-;
+#kontakt .top {
+    color: #d6d6d6;
+}
