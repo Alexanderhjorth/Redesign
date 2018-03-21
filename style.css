@@ -1,7 +1,17 @@
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+
 #kontakt .sectionwrapper {
     background-color: #4e4e4e;
     padding: 1em;
-    border: 1px solid black;
+    border: 2px solid #b9aaaa;
+
 }
 
 #kontakt .top {
